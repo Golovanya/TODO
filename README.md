@@ -7,4 +7,4 @@ A simple application that allows you to add, mark and delete tasks. Tasks are sa
 + CSS
 + JS
 
-###[Link project](https://todo-vert-alpha.vercel.app/)
+### [Link project](https://todo-vert-alpha.vercel.app/)
